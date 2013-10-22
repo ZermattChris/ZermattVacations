@@ -1,0 +1,73 @@
+/* CSS for the Top Menu area of Zermatt Vacations.com site */
+
+body {
+	background-color: #ffffff;
+	font: 11px/17px verdana, arial, sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+    color: #333;
+}
+
+/* Makes the top Menu background horiz grey stripes */
+#menu_back {
+	z-index: 100;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 266px;
+	background-color: rgb(80%,80%,80%);
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#menu_dark {
+	margin: 0;
+	padding: 0;
+	margin-top: 14px;
+	width: 100%;
+	height: 245px;
+	background-color: rgb(20%,20%,20%);
+}
+
+
+/* Main Picture at top */
+#main_pict {
+	z-index: 100;
+	margin: 0;
+	width: 100%;
+	height: 244px;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-image: url(/images/holiday-apartments-in-zermatt-matterhorn-winter.jpg);
+	position: absolute;
+	top: 14px;
+	left: 0;
+}
+/* Quality pict at top */
+#quality_pict {
+	z-index: 100;
+	margin: 0;
+	width: 100%;
+	height: 146px;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-image: url(../global-pics/q-home.jpg);
+	position: relative;
+	top: 40px;
+}
+/* The Main Menu bar at the top */
+#main_center {
+	z-index: 150;
+	margin: 0;
+	width: 100%;
+	position: absolute;
+	top: 4px;
+	left: 0;
+}
+
+
+
+
+
+

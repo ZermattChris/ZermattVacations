@@ -1,0 +1,35 @@
+/* CSS used in making the Price Tables. */
+table.prices {
+	font: 11px/18px verdana, arial, sans-serif;
+	text-align: center;
+	margin: 0;
+	margin-left: auto; margin-right: auto;
+	margin-bottom: 20px;
+	border-width: 1px;
+	border-spacing: 2px 2px;
+	border-style: inset;
+	border-color: black;
+	border-collapse: separate;
+	background-color: rgb(80%, 80%, 80%);
+}
+table.prices th{
+	border-width: 0;
+	padding: 2px;
+	border-style: inset;
+	border-color: gray;
+	background-color: rgb(202,113,0);
+	color: white;
+	-moz-border-radius: 0;
+}
+table.prices td {
+	border-width: 0;
+	padding: 2px;
+	border-style: inset;
+	border-color: gray;
+	background-color: rgb(255, 255, 240);
+}
+table.prices td.alt {
+	background: rgb(90%, 90%, 90%);
+	font-weight: bold;
+	color: black;
+}

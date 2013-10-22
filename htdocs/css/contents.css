@@ -1,0 +1,471 @@
+
+html {
+	overflow-y: scroll;
+	height: 100%;
+}
+
+
+/* Home page award */
+#tripAdvisorFlipKeyAwardHome {
+    position: relative;
+    text-align: center;
+    top: 20px;
+    height: 130px;
+}
+    #tripAdvisorFlipKeyAwardHome iframe {
+	position: absolute;
+	top: 0;
+	left: 254px;
+    }
+
+/* All details pages awards */    
+#AwardsBox, #LikeBox {
+    position: relative;
+    top: 0; left: 0;
+    width: 960px;
+    height: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+    #AwardsBox #tripAdvisorFlipKeyAward {
+	position: absolute;
+	top: 285px;
+	left: 750px;
+	height: 130px;
+    }
+	#AwardsBox #tripAdvisorFlipKeyAward iframe {
+	    position: relative;
+	    top: 0; left: 0;
+	}
+
+
+/* Facebook like */
+.fb-like {
+    position: fixed !important;
+    bottom: 5px;
+    left: 5px;
+    z-index: 10000;
+}
+
+
+.shadow {
+    -moz-box-shadow: 0px 0px 5px black;
+    -webkit-box-shadow: 0px 0px 5px black;
+    box-shadow: 0px 0px 5px black;
+}
+
+.commentBox {
+	margin: 0 0 25px 0;
+	padding: 0 0 25px 0;
+	text-align: left;
+	background: url(/images/horizontal-gold-bar.png) center bottom no-repeat;
+}
+	.commentBox p.date {
+		margin-bottom: 5px !important;
+	}
+		.commentBox p.date span {
+			float: right;
+			display: inline;
+		}
+	.commentBox h3 {
+		margin: 0 115px 10px;
+		text-align: left;
+	}
+	.commentBox h3 span {
+		font-weight: normal;
+		font-style: italic;
+	}
+	
+	
+	
+#geustbookForm {
+	position: relative;
+	left: 65px;
+	margin: 25px 0 0 0;
+}
+.formEntryErrors {
+	color: maroon;
+	text-align: left;
+	margin-left: 115px;
+}
+
+#information {
+	margin: 40px auto 10px;
+	width: 700px;
+	font: normal 9px verdana, arial, sans-serif;
+	color: rgb(60%,60%,60%);
+	text-align: justify;
+}
+
+
+/*
+ * New Main Menu buttons
+ */
+#main_center #menu ul {
+	margin: 0 auto;
+	width: 960px;
+	padding: 0;
+	font: bold 12px verdana, arial, sans-serif;
+	cursor: default;
+	text-align: center;
+}
+	#main_center #menu li {
+		list-style-type: none;
+		float: left;
+		display: inline;
+		width: 159px;
+		height: 35px;
+		margin: 0;
+		padding: 0;
+		background: url(/images/main-menu-button-new.png) bottom left no-repeat;
+		line-height: 34px;
+		letter-spacing: 0.04em;
+		text-shadow: 0px 0px 3px white;
+	}
+	#main_center #menu li a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		text-decoration: none;
+		border: none;
+		color: black;
+		background: url(/images/main-menu-button-new.png) top left no-repeat;
+	}
+		#main_center #menu li a:hover {
+			color: black;
+			background: url(/images/main-menu-button-new.png) bottom left no-repeat;
+			text-shadow: 0px 0px 1px #ffaa00;					/* SITE : Bright Gold */
+		}
+		#main_center #menu li a:visited {
+			color: black;
+		}
+	
+	#main_center #menu li.selected a {
+		background: url(/images/main-menu-button-new.png) bottom left no-repeat;
+	}
+	
+	
+/*
+ * New Headings that use web-fonts instead of images.
+ */
+#headingBox {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: 1000;
+	width: 880px;
+	height: 0px;
+	overflow: visible;
+	margin: 0 auto !important;
+	padding: 0 !important;
+}
+	#headingBox h1 {
+		position: relative;
+		width: 880px;
+		height: 100px;
+		font-family: 'Tangerine', serif;
+		font-size: 70px;
+		color: white !important;
+		text-shadow: 1px 1px 1px #000, 1px 1px 1px #000, 0px 0px 6px #000, 0px 0px 8px #000, 0px 0px 12px #000;
+		letter-spacing: -0.02em;
+		line-height: 50px;
+	}
+	#headingBox .underline {
+		background: url(/images/horizontal-gold-bar.png) 50px 76px no-repeat;
+		position: absolute;
+		top: 100px;
+		left: -20px;
+	}
+	
+	/* Web Fonts */
+	.caps {
+		color: #ffaa00;							/* SITE : Bright Gold */
+		font-size: 100px;
+	}
+
+	#headingBox img {
+		position: absolute;
+		top: 200px;
+		left: 268px;
+	}
+	#headingBox .home {
+		position: absolute;
+		top: 300px;
+		left: 431px;
+		width: 16px; height: 16px;
+		background: url(/images/home-icon.png) center left no-repeat;
+	}
+		#headingBox a .home {
+			background: url(/images/home-icon.png) top left no-repeat;
+		}
+		#headingBox a:hover .home {
+			background: url(/images/home-icon.png) bottom left no-repeat;
+		}
+
+
+
+/* CSS for the content area of Zermatt Vacations.com site */
+#contents {
+	z-index: 60;
+	width: 674px;
+	margin: 0 auto 0 auto;
+	padding: 150px 0 0 0;
+	background-image: url(/global-pics/background.jpg);
+	background-repeat: repeat-y;
+	background-position: top center;
+}
+#home_contents {
+	z-index: 60;
+	width: 674px;
+	margin: 0 auto 0 auto;
+	padding: 320px 0 0 0;
+	background-image: url(/global-pics/background.jpg);
+	background-repeat: repeat-y;
+	background-position: top center;
+}
+#back_bottom {
+	clear: both;
+	width: 674px;
+	height: 142px;
+	margin: 0;
+	padding: 0;
+	background-image: url(/global-pics/background-bottom.jpg);
+	background-repeat: repeat-y;
+	background-position: top center;
+}
+#home_contents p, #contents p {
+	font: 11px/18px verdana, arial, sans-serif;
+	margin: 0 115px 0 115px;
+	text-align: justify;
+	margin-bottom: 0px;
+	background-color: transparent;
+}
+
+.red {
+	color: red;
+}
+
+
+#contents_box {
+	margin: 0 auto 0 auto;
+	text-align: center;
+	padding: 0;
+}
+
+h1{
+	font: 26px/29px verdana, arial, sans-serif;
+	letter-spacing: -.05em;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 55px;
+	padding-top: 22px;
+	height: 83px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+h2{
+	font: 14px/18px verdana, arial, sans-serif;
+	font-weight: bold;
+	letter-spacing: 0em;
+	margin: 0 115px 5px 115px;     /* 10px space after each h2 */
+	text-align: left;
+	padding: 0;
+	background-color: transparent;
+	color: rgb(202,113,0);
+}
+strong {
+	margin: 0;
+	font: 11px/14px verdana, arial, sans-serif;
+	font-weight: bold;
+	letter-spacing: 0em;
+	text-align: left;
+	padding: 0;
+	color: rgb(202,113,0);
+}
+.small {
+	display: inline;
+	font: 10px/12px verdana, arial, sans-serif;
+}
+
+/* Footer links & Languages box */
+.footer_links {
+	font: 10px/14px verdana, arial, sans-serif;
+	margin: 0 auto 10px;
+	padding: 0;
+	height: 20px;
+	color: rgb(60%,60%,60%);
+	cursor: default;
+}
+.footer_links a {
+	color: rgb(40%,40%,40%);
+	border-bottom: 1px transparent none;
+	text-decoration: none;
+}
+.footer_links a:visited {
+	color: rgb(40%,40%,40%);
+	border-bottom: 1px transparent none;
+	text-decoration: none;
+}
+.footer_links a:hover {
+	color: #b07500;							/* SITE : Dark Gold */
+	border-bottom: 1px #b07500 dotted;		/* SITE : Dark Gold */
+}
+
+#copyright {
+	position: relative;
+	top: 50px;
+	font-size: 9px;
+}
+#footMenuSpacer {
+	height: 3px;
+}
+
+/* Footer section of site */
+#footer_box {
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	top: 30px;
+	width: 570px;
+	height: 50px;
+	background-color: transparent;
+}
+
+.footer_menu {
+	margin-left: auto; margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 25px;
+	padding: 0;
+	background-color: transparent;
+}
+
+
+.spacer {
+	display: block;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+}
+
+
+a{
+	color: rgb(40%,40%,40%);
+	border-bottom: 1px rgb(40%,40%,40%) dotted;
+	text-decoration: none;	
+}
+a:hover{
+	color: #b07500;							/* SITE : Dark Gold */
+	border-bottom: 1px #b07500 dotted;		/* SITE : Dark Gold */
+}
+a:visited {
+	color: #b07500;							/* SITE : Dark Gold */
+	border-bottom: 1px #b07500 dotted;		/* SITE : Dark Gold */
+}
+
+.thumb {
+	float: left;
+	margin: 0;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding: 2px;
+	width: 198px;
+	height: 126px;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-position: center;
+	border: 2px solid black;
+	cursor: pointer;
+}
+.thumb a, .thumb a:hover{
+	width: 198px;
+	height: 126px;
+	margin: 0; padding:0;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+/*Standard button rollover*/
+.standard_button {
+	display: block;
+	width: 150px; height: 26px;
+	margin: 0;
+	padding: 0;
+	background-image: url(/global-pics/button2.jpg);
+	background-repeat: no-repeat;
+}
+.standard_button a:hover {
+	background-position: -150px 0;
+	color: black;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.standard_button a:active {
+	color: black;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.standard_button a,
+.standard_button_wide a {
+	display: block;
+	margin: 0; 
+	padding: 5px 0 0 0;
+	width: 150px; height: 26px;
+	overflow: hidden;
+	font: 11px/15px verdana, arial, sans-serif;
+	letter-spacing: 0.06em;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	background-image: url(/global-pics/button2.jpg);
+	background-repeat: no-repeat;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+
+.standard_button_wide {
+	width: 175px; height: 26px;
+	background-image: url(/global-pics/button2-wide.jpg);
+}
+.standard_button_wide a {
+	width: 175px; height: 26px;
+	background-image: url(/global-pics/button2-wide.jpg);
+}
+.standard_button_wide a:hover {
+	width: 175px; height: 26px;
+	background-position: -175px 0;
+	background-image: url(/global-pics/button2-wide.jpg);
+}
+
+.image_box {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	text-decoration: none;
+}
+.image_box a:hover{
+	border-style: solid;
+	border-width: 8px;
+	border-color: black;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+
+.plain_links a{
+	border: 0;
+	text-decoration: none;
+}
+.plain_links a:hover{
+	border: 0;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.plain_links img{
+	border: 0;
+}
+
+.emailLink a {
+	text-decoration: underline;
+}
+

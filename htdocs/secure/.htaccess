@@ -1,0 +1,4 @@
+AuthName "Nur mit Passwort"
+AuthType Basic
+AuthUserFile /srv/www/virtual/www.zermattvacations.com/htdocs/secure/.htpasswd
+require valid-user

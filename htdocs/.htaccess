@@ -1,0 +1,21 @@
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName www.zermattvacations.com
+AuthUserFile /srv/www/zermattvacations.com/htdocs/_vti_pvt/service.pwd
+AuthGroupFile /srv/www/zermattvacations.com/htdocs/_vti_pvt/service.grp
+
+
+
+#----------- Redirects from Fiona to Ross ------------
+#redirect 301 /apartments/zenith/fiona/fiona.php http://www.zermattvacations.com/apartments/zenith/ross/ross.php

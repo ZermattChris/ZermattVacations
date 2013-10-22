@@ -1,0 +1,39 @@
+<POLICIES xmlns="http://www.w3.org/2002/01/P3Pv1">
+ <POLICY name="zermattvacationspolicy" 
+     discuri="http://www.zermattvacations.com/w3c/privacy.htm"
+     xml:lang="en">
+  <ENTITY>
+   <DATA-GROUP>
+	<DATA ref="#business.name">Zermatt Vacations</DATA>
+    <DATA ref="#business.contact-info.postal.street">Hofmattstrasse 7</DATA>
+    <DATA ref="#business.contact-info.postal.city">Zermatt</DATA>
+    <DATA ref="#business.contact-info.postal.stateprov">VS</DATA>
+    <DATA ref="#business.contact-info.postal.postalcode">3920</DATA>
+    <DATA ref="#business.contact-info.postal.country">Switzerland</DATA>
+    <DATA ref="#business.contact-info.online.email">info@alpinezermatt.ch</DATA>
+    <DATA ref="#business.contact-info.telecom.telephone.intcode">41</DATA>
+    <DATA ref="#business.contact-info.telecom.telephone.loccode">(0)27</DATA>
+    <DATA ref="#business.contact-info.telecom.telephone.number">967 0006</DATA>
+   </DATA-GROUP>
+  </ENTITY>
+  <ACCESS><nonident/></ACCESS>
+	<DISPUTES-GROUP>
+		<DISPUTES resolution-type="service"
+			service="http://www.zermattvacations.com/w3c/privacy.htm"
+			short-description="Please contact our customer service desk with
+							 privacy concerns by emailing info@zermattvacations.com"/>
+	</DISPUTES-GROUP>
+  <STATEMENT>
+   <PURPOSE><admin/><develop/></PURPOSE>
+   <RECIPIENT><ours/></RECIPIENT>
+   <RETENTION><stated-purpose/></RETENTION> <!-- Note also that the site's human-readable
+                                                 privacy policy MUST mention that data 
+                                                 is purged every two weeks, or provide a 
+                                                 link to this information. -->
+   <DATA-GROUP>
+    <DATA ref="#dynamic.clickstream"/>
+    <DATA ref="#dynamic.http"/>
+   </DATA-GROUP>
+  </STATEMENT>
+ </POLICY>
+</POLICIES>
