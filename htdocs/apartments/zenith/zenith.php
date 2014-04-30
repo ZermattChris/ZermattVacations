@@ -63,10 +63,12 @@
 				    overhead shower). Both bathrooms have hairdryers. There is a fully
 				    fitted kitchen with dishwasher and microwave and an open plan living
 				    room with fireplace, TV/DVD, music system and free wireless internet
-				    connection. A laptop is available upon request. The price list for
-				    apartment Zenith is located at the 
+				    connection. The price list for apartment Zenith is located at the
 				    bottom of this page. 
 				</p>
+                <p>
+                    Please note there are about 150 steps up to the house.
+                </p>
 				<span class="spacer" style="height: 30px; clear: both;"></span>
 				<p>
 				    <a rel="shadowbox" href="/apartments/zenith/picts/zenith.jpg" title="Majestic Matterhorn and the town of Zermatt from your apartment"><span class="thumb" style="background-image: url(/apartments/zenith/picts/zenith-thumb.jpg);"></span></a>View 
@@ -157,70 +159,11 @@
 				            </th>
 				        </tr>
 
-
-                        <tr>
-                            <td class="">25.08.13 – 17.11.13</td>
-                            <td class="">Middle Season</td>
-                            <td class="">CHF 2450.--</td>
-                        </tr>
-
-                        <tr>
-                            <td class="alt">17.11.13 – 15.12.13</td>
-                            <td class="alt">Winter Middle Season</td>
-                            <td class="alt">CHF 3750.--</td>
-                        </tr>
-                        <tr>
-                            <td class="">15.12.13 – 22.12.13</td>
-                            <td class="">Winter Middle Season</td>
-                            <td class="">CHF 4250.--</td>
-                        </tr>
-
-
-
-                        <tr>
-                            <td class="alt">22.12.13 – 29.12.13</td>
-                            <td class="alt">Winter High Season</td>
-                            <td class="alt">CHF 7450.--</td>
-                        </tr>
-                        <tr>
-                            <td class="">29.12.13 – 05.01.14</td>
-                            <td class="">Winter High Season</td>
-                            <td class="">CHF 8850.--</td>
-                        </tr>
-                        <tr>
-                            <td class="alt">05.01.14 – 12.01.14</td>
-                            <td class="alt">Winter High Season</td>
-                            <td class="alt">CHF 5950.--</td>
-                        </tr>
-
-
-
-                        <tr>
-                            <td class="">12.01.14 – 26.01.14</td>
-                            <td class="">Winter Middle Season</td>
-                            <td class="">CHF 4250.--</td>
-                        </tr>
-
-                        <tr>
-                            <td class="alt">26.01.14 – 09.02.14</td>
-                            <td class="alt">Winter High Season</td>
-                            <td class="alt">CHF 5550.--</td>
-                        </tr>
-                        <tr>
-                            <td class="">09.02.14 – 23.02.14</td>
-                            <td class="">Winter High Season</td>
-                            <td class="">CHF 7150.--</td>
-                        </tr>
-
                         <tr>
                             <td class="alt">23.02.14 – 27.04.14</td>
                             <td class="alt">Winter High Season</td>
                             <td class="alt">CHF 6650.--</td>
                         </tr>
-
-
-
-
 
                         <tr>
                             <td>27.04.14 – 04.05.14</td>
@@ -254,6 +197,72 @@
 
 
 
+
+                        <tr>
+                            <td class="alt">14.12.14 – 21.12.14</td>
+                            <td class="alt">Winter Middle Season</td>
+                            <td class="alt">CHF 4250.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>21.12.14 – 28.12.14</td>
+                            <td>Winter High Season</td>
+                            <td>CHF 7550.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">28.12.14 – 04.01.15</td>
+                            <td class="alt">Winter High Season</td>
+                            <td class="alt">CHF 8950.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>04.01.15 – 11.01.15</td>
+                            <td>Winter High Season</td>
+                            <td>CHF 5950.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">11.01.15 – 25.01.15</td>
+                            <td class="alt">Winter Middle Season</td>
+                            <td class="alt">CHF 4250.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>25.01.15 – 08.02.15</td>
+                            <td>Winter High Season</td>
+                            <td>CHF 5550.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">08.02.15 – 22.02.15</td>
+                            <td class="alt">Winter High Season</td>
+                            <td class="alt">CHF 7150.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>22.02.15 – 29.03.15</td>
+                            <td>Winter High Season</td>
+                            <td>CHF 6650.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">29.03.15 – 12.04.15</td>
+                            <td class="alt">Winter High Season</td>
+                            <td class="alt">CHF 7150.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>12.04.15 – 19.04.15</td>
+                            <td>Winter Middle Season</td>
+                            <td>CHF 4450.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">19.04.15 – 03.05.15</td>
+                            <td class="alt">Middle Season</td>
+                            <td class="alt">CHF 3250.--</td>
+                        </tr>
 
                     </tbody>
 				</table>

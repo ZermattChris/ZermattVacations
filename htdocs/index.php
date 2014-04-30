@@ -33,11 +33,14 @@
 		<!-- Page Content section -->
         <div id="contents_box">
             <div id="home_contents">
-            	
-				<!-- Language Menu -->
-				<?php include_once( $_SERVER["DOCUMENT_ROOT"] . "/includes/menus/lang-en.php" ); ?>
-				
-					
+
+                <!-- Language Menu -->
+                <?php include_once( $_SERVER["DOCUMENT_ROOT"] . "/includes/menus/lang-en.php" ); ?>
+
+                <!-- Social Icons -->
+                <?php include_once( $_SERVER["DOCUMENT_ROOT"] . "/includes/menus/social.php" ); ?>
+
+
                 <div class="spacer"></div>
 				
 				
@@ -67,7 +70,19 @@
                 </p>
 				
 				<div id="tripAdvisorFlipKeyAwardHome">
-					Find <a id="flipkey_excellence_badge" href="http://www.flipkey.com/vacation+rentals/switzerland/valais/zermatt/">Zermatt Vacation Rentals</a> on FlipKey
+<!--					<a id="flipkey_excellence_badge" href="http://www.flipkey.com/vacation+rentals/switzerland/valais/zermatt/"></a>-->
+                    <div id="FK_Best_Of_Badge535ea0daa1b95">
+                        <a href="http://www.flipkey.com/"><img alt="FlipKey"  src="http://www.flipkey.com//img/FK-logo-90x14.png"/></a>
+                        <script src="http://www.flipkey.com//widgets/badges/best_of/19564/535ea0daa1b95/c2lsdmVy/88171"></script>
+                    </div>
+                    <div id="FK_Frontdesk_Badge535ea184e32db">
+                        <a href="http://www.flipkey.com/"><img alt="FlipKey"  src="http://www.flipkey.com/img/logos/FlipKey_TA_Color_Logo.svg"/></a>
+                        <script src="http://www.flipkey.com/widgets/badges/frontdesk/19564/535ea184e32db/88174"></script>
+                    </div>
+                    <div id="FK_Best_Of_Badge535ea11f320ee">
+                        <a href="http://www.flipkey.com/"><img alt="FlipKey"  src="http://www.flipkey.com//img/FK-logo-90x14.png"/></a>
+                        <script src="http://www.flipkey.com//widgets/badges/best_of/19564/535ea11f320ee/MjAxMg==/88172"></script>
+                    </div>
 				</div>
 				<script type="text/javascript" src="http://data.flipkey.com/widgets/jsapi/33794/kb3/86rm/"></script>
 				

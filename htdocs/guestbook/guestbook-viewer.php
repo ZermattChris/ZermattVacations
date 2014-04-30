@@ -9,11 +9,13 @@
 	
 		$commentsList = explode( "\n", $pRawCommentsStr );
 		$sortedCommentsList = array();
-		
-		
+
+        $lineNr = 0;
+
 		// First read in the raw data and sort it so we show the latest comments
 		// at the top of the list.
 		foreach ( $commentsList as $rawCommentLine ) {
+            $lineNr++;
 			if ( ! trim( $rawCommentLine ) !== '' ) {
 				$commentElementsList = explode( "|~~|", $rawCommentLine );
 				// Should have 4x elements, otherwise something's missing and just skip this entry.

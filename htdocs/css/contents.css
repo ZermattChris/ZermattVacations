@@ -7,15 +7,29 @@ html {
 
 /* Home page award */
 #tripAdvisorFlipKeyAwardHome {
-    position: relative;
-    text-align: center;
-    top: 20px;
     height: 130px;
+    width: 700px;
+    clear: both;
+}
+    /* Get home page FlipKey awards to row up horizontally */
+    #tripAdvisorFlipKeyAwardHome > div {
+        float: left;
+    }
+        html body #tripAdvisorFlipKeyAwardHome > div .fk-best-of-badge {
+            width: 260px !important;
+        }
+            #tripAdvisorFlipKeyAwardHome > div[id*='FK_Best_Of'] {
+                position: relative;
+                top: 20px;
+            }
+
+a#flipkey_excellence_badge {
+    border-bottom: none;
 }
     #tripAdvisorFlipKeyAwardHome iframe {
-	position: absolute;
-	top: 0;
-	left: 254px;
+        position: absolute;
+        top: 0;
+        left: 254px;
     }
 
 /* All details pages awards */    
@@ -38,14 +52,31 @@ html {
 	    top: 0; left: 0;
 	}
 
-
-/* Facebook like */
-.fb-like {
-    position: fixed !important;
-    bottom: 5px;
-    left: 5px;
-    z-index: 10000;
+/* Sub pages FlipKey awards to row up vertically */
+#AwardsBox {
+    position: absolute;
+    height: 1px; width: 100%;
+    overflow: visible;
 }
+
+#AwardsBox > #centerAwardsBox {
+    position: relative;
+    margin: 260px auto 0;
+    top: 0; left: 0;
+    width: 960px;
+    overflow: visible;
+}
+    #centerAwardsBox > div {
+        position: relative;
+        right: -10px;
+        margin: 0 30px 10px 0;
+        float: right;
+        clear: both;
+    }
+        #centerAwardsBox > div[id*='FK_Best_Of'] {
+            right: -70px;
+            margin-right: 0px;
+        }
 
 
 .shadow {
@@ -233,7 +264,7 @@ html {
 	background-repeat: repeat-y;
 	background-position: top center;
 }
-#home_contents p, #contents p {
+#home_contents>p, #contents>p {
 	font: 11px/18px verdana, arial, sans-serif;
 	margin: 0 115px 0 115px;
 	text-align: justify;
@@ -469,3 +500,49 @@ a:visited {
 	text-decoration: underline;
 }
 
+/* Social menu buttons and links */
+.social {
+    margin-top: 15px;
+}
+    .social-button {
+        display: inline-block;
+        margin: 0 3px;
+    }
+    .social-button > a.social-link {
+        border-bottom: 1px none rgba(0, 0, 0, 0);
+        color: #666666;
+        text-decoration: none;
+        position: relative;
+        top: -6px;
+    }
+        .social-button > a.social-link:hover {
+            border-bottom: 1px dotted #B07500;
+            color: #B07500;
+        }
+
+/* Facebook like */
+.fb-like {
+    top: -4px;
+}
+.fb_reset {
+    display: inline-block;
+}
+
+#waldhus-special-offer {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 1px;
+    overflow: visible;
+}
+    #waldhus-special-offer img {
+        position: absolute;
+        top: -11px;
+        left: -15px;
+    }
+        #waldhus-special-offer img#detail {
+             position: absolute;
+             top: -75px;
+            left: -38px;
+         }

@@ -108,11 +108,11 @@ visit. Have Fun! </p>
     </tr>
 
 
-<!-- AER --> <tr>
+<!-- Ztyle.ch --> <tr>
 
-      <td><span class="plain_links"><a href="http://www.aerzone.ch/"><img src="/links/picts/aer_logo.jpg" /></a></span></td>
+      <td><span class="plain_links"><a href="http://www.ztyle.ch/en/"><img src="/links/picts/ztyle-logo.jpg" /></a></span></td>
 
-      <td>Aer Snowboard & Ski School</td>
+      <td>ztyle for events</td>
 
     </tr>
 

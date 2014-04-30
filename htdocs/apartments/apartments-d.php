@@ -8,6 +8,7 @@
 		
         <meta name="Description" content="Zermatt Vacations Holiday Apartments - Quality non-smoking apartment rentals in Zermatt Switzerland (at the foot of the Matterhorn)" />
         <meta name="Keywords" content="Zermatt,Apartments,Holiday,Chalet,Flat,Alpine,mountains,alps,Rentals,Switzerland,Lodging,Non-smoking,Quality,Vacation,Matterhorn,Ski,Climb,Hike,Bike" />
+
         <meta name="Author" content="bSoftware of Zermatt, Switzerland" />
         <meta name="Copyright" content="© by Zermatt Vacations — All rights reserved." />
         <link href="/css/home-menu.css" rel="stylesheet" type="text/css" />
@@ -103,7 +104,11 @@
                 
 				
 				<!-- Zem Waldhüs -->
-				<span class="spacer" style="height: 50px;"></span>
+                <span class="spacer" style="height: 50px;"></span>
+<!--                <div id="waldhus-special-offer">-->
+<!--                    <img style="top:39px;" src="/images/early-booking-waldhus-2014-de.png" alt="20% off published rates for bookings for March and April" />-->
+<!--                </div>-->
+<!--				<span class="spacer" style="height: 50px;"></span>-->
 				<p>
 				    <a href="/apartments/waldhus/waldhus-d.php" ><span class="thumb" style="background-image: url(../apartments/waldhus/picts/view-from-balcony-thumb.jpg);"></span></a>
 				</p>
@@ -112,7 +117,15 @@
 				    Dieses Apartment ist einzigartig gelegen am Ende der Sunnegga-Skipiste zwischen 
                     Waldrand und Dorf mit wunderschönen Blick aufs Matterhorn. 
 				</p>
-				<p style="clear: both;"></p>
+
+<!--                <h3 style="clear: both;">-->
+<!--                    Spezielles Angebot März und April 2014-->
+<!--                </h3>-->
+<!--                <p style="text-align: center;">-->
+<!--                    Klicke auf 'Haus Waldhüs' für unglaubliche Frühbucherangebote-->
+<!--                </p>-->
+
+                <p style="clear: both;"></p>
 				<div class="standard_button" style="margin-top: 10px; margin-left: auto; margin-right: auto;">
 				    <a href="/apartments/waldhus/waldhus-d.php" >Haus Waldhüs</a>
 				</div>

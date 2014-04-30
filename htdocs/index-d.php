@@ -62,7 +62,7 @@
                 </p>
 				
 				<div id="tripAdvisorFlipKeyAwardHome">
-					Find <a id="flipkey_excellence_badge" href="http://www.flipkey.com/vacation+rentals/switzerland/valais/zermatt/">Zermatt Vacation Rentals</a> on FlipKey
+					<a id="flipkey_excellence_badge" href="http://www.flipkey.com/vacation+rentals/switzerland/valais/zermatt/"></a>
 				</div>
 				<script type="text/javascript" src="http://data.flipkey.com/widgets/jsapi/33794/kb3/86rm/"></script>
 				

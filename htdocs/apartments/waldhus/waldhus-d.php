@@ -46,9 +46,24 @@
 				
 				
 				<!-- START :: Content area -->
-				
-				
-				<!-- Intro text -->
+<!--                <div id="waldhus-special-offer">-->
+<!--                    <img id="detail" src="/images/early-booking-waldhus-2014-de.png" alt="20% off published rates for bookings for March and April" />-->
+<!--                </div>-->
+<!--                <h2>-->
+<!--                    Frühbucher-Angebot für Zem Waldhüs Sparen <br/>Sie 20%!</h2>-->
+<!--                <p>-->
+<!--                    20% Rabatt des Normalpreises für Reservierungen bis zum 28.02 für März und April.-->
+<!--                    Dieses spezielle Angebot muss bei Buchung komplett bezahlt werden und ist nicht erstattungsfähig.-->
+<!--                </p>-->
+<!--                <span class="spacer" style="height: 20px; clear: both;"></span>-->
+<!--                <div class="standard_button" style="margin-top: 10px; margin-left: auto; margin-right: auto;">-->
+<!--                    <a href="/reservations/reservations-d.php" title="Buchen Sie jetzt Ihre Ferien im Haus Zem Waldhüs">Reservation</a>-->
+<!--                </div>-->
+<!--                <span class="spacer"></span>-->
+
+
+
+                <!-- Intro text -->
 			    <p>
 			        Dieses Apartment ist einzigartig gelegen am Ende der Sunnegga-Skipiste zwischen Waldrand 
                     und Dorf mit wunderschönen Blick aufs Matterhorn. 
@@ -202,98 +217,110 @@
 
 
                         <tr>
-                            <td class="alt">23.08.13 – 15.11.13</td>
-                            <td class="alt">Nebensaison</td>
-                            <td class="alt">CHF 2950.--</td>
-                        </tr>
-
-                        <tr>
-                            <td>15.11.13 – 13.12.13</td>
-                            <td>Winter Nebensaison</td>
-                            <td>CHF 4250.--</td>
-                        </tr>
-                        <tr>
-                            <td class="alt">13.12.13 – 20.12.13</td>
-                            <td class="alt">Winter Nebensaison</td>
-                            <td class="alt">CHF 4750.--</td>
-                        </tr>
-
-
-
-                        <tr>
-                            <td>20.12.13 – 27.12.13</td>
-                            <td>Winter Hochsaison</td>
-                            <td>CHF 7950.--</td>
-                        </tr>
-                        <tr>
-                            <td class="alt">27.12.13 – 03.01.14</td>
-                            <td class="alt">Winter Hochsaison</td>
-                            <td class="alt">CHF 9450.--</td>
-                        </tr>
-
-
-
-                        <tr>
-                            <td>03.01.14 – 10.01.14</td>
-                            <td>Winter Hochsaison</td>
-                            <td>CHF 6450.--</td>
-                        </tr>
-                        <tr>
-                            <td class="alt">10.01.14 – 24.01.14</td>
-                            <td class="alt">Winter Nebensaison</td>
-                            <td class="alt">CHF 4750.--</td>
-                        </tr>
-
-                        <tr>
-                            <td>24.01.13 – 07.02.14</td>
-                            <td>Winter Hochsaison</td>
-                            <td>CHF 6150.--</td>
-                        </tr>
-                        <tr>
-                            <td class="alt">07.02.14 – 21.02.14</td>
-                            <td class="alt">Winter Hochsaison</td>
-                            <td class="alt">CHF 7750.--</td>
-                        </tr>
-
-                        <tr>
-                            <td>21.02.14 – 26.04.14</td>
+                            <td>21.02.14 – 24.04.14</td>
                             <td>Winter Hochsaison</td>
                             <td>CHF 7150.--</td>
                         </tr>
 
-
-
-
-
-
                         <tr>
-                            <td class="alt">26.04.14 – 03.05.14</td>
-                            <td class="alt">Middle Season</td>
+                            <td class="alt">24.04.14 – 02.05.14</td>
+                            <td class="alt">Nebensaison</td>
                             <td class="alt">CHF 3950.--</td>
                         </tr>
 
                         <tr>
-                            <td>03.05.14 – 28.06.14</td>
-                            <td>Middle Season</td>
+                            <td>02.05.14 – 27.06.14</td>
+                            <td>Nebensaison</td>
                             <td>CHF 2950.--</td>
                         </tr>
 
                         <tr>
-                            <td class="alt">28.06.14 – 30.08.14</td>
-                            <td class="alt">Summer Season</td>
+                            <td class="alt">27.06.14 – 29.08.14</td>
+                            <td class="alt">Sommersaison</td>
                             <td class="alt">CHF 3950.--</td>
                         </tr>
 
                         <tr>
-                            <td>30.08.13 – 15.11.14</td>
-                            <td>Middle Season</td>
+                            <td>29.08.14 – 14.11.14</td>
+                            <td>Nebensaison</td>
                             <td>CHF 2950.--</td>
                         </tr>
 
                         <tr>
-                            <td class="alt">15.11.14 – 13.12.14</td>
-                            <td class="alt">Winter Middle Season</td>
+                            <td class="alt">14.11.14 – 12.12.14</td>
+                            <td class="alt">Winter Nebensaison</td>
                             <td class="alt">CHF 4250.--</td>
+                        </tr>
+
+
+
+
+
+
+                        <tr>
+                            <td>12.12.14 – 19.12.14</td>
+                            <td>Winter Nebensaison</td>
+                            <td>CHF 4750.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">19.12.14 – 26.12.14</td>
+                            <td class="alt">Winter Hochsaison</td>
+                            <td class="alt">CHF 7950.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>26.12.14 – 02.01.15</td>
+                            <td>Winter Hochsaison</td>
+                            <td>CHF 9450.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">02.01.15 – 09.01.15</td>
+                            <td class="alt">Winter Hochsaison</td>
+                            <td class="alt">CHF 6450.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>09.01.15 – 23.01.15</td>
+                            <td>Winter Nebensaison</td>
+                            <td>CHF 4750.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">23.01.15 – 06.02.15</td>
+                            <td class="alt">Winter Hochsaison</td>
+                            <td class="alt">CHF 6150.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>06.02.15 – 20.02.15</td>
+                            <td>Winter Hochsaison</td>
+                            <td>CHF 7750.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">20.02.15 – 27.03.15</td>
+                            <td class="alt">Winter Hochsaison</td>
+                            <td class="alt">CHF 7150.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>27.03.15 – 10.04.15</td>
+                            <td>Winter Hochsaison</td>
+                            <td>CHF 7750.--</td>
+                        </tr>
+
+                        <tr>
+                            <td class="alt">10.04.15 – 17.04.15</td>
+                            <td class="alt">Winter Nebensaison</td>
+                            <td class="alt">CHF 4950.--</td>
+                        </tr>
+
+                        <tr>
+                            <td>17.04.15 – 01.05.15</td>
+                            <td>Nebensaison</td>
+                            <td>CHF 3750.--</td>
                         </tr>
 
                     </tbody>

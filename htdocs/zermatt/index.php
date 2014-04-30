@@ -158,7 +158,9 @@
 					<a rel="shadowbox" href="http://www.paragliding-zermatt.ch/">Paragliding Zermatt</a>
 					<br/>
 					<a rel="shadowbox" href="http://www.alpine-adventures-zermatt.com/index.php">Alpine Adventures Zermatt</a>
-				</p>
+                    <br/>
+                    <a href="http://www.flyzermatt.com/" target="_blank">FlyZermatt.com</a>
+                </p>
 				
 				
                 <span class="spacer commentBox"></span>

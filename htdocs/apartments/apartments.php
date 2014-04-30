@@ -8,6 +8,8 @@
 		
         <meta name="Description" content="Zermatt Vacations Holiday Apartments - Quality non-smoking apartment rentals in Zermatt Switzerland (at the foot of the Matterhorn)" />
         <meta name="Keywords" content="Zermatt,Apartments,Holiday,Chalet,Flat,Alpine,mountains,alps,Rentals,Switzerland,Lodging,Non-smoking,Quality,Vacation,Matterhorn,Ski,Climb,Hike,Bike" />
+
+
         <meta name="Author" content="bSoftware of Zermatt, Switzerland" />
         <meta name="Copyright" content="© by Zermatt Vacations — All rights reserved." />
         <link href="/css/home-menu.css" rel="stylesheet" type="text/css" />
@@ -106,6 +108,9 @@
 				
 				<!-- Zem Waldhüs -->
 				<span class="spacer" style="height: 50px;"></span>
+<!--                <div id="waldhus-special-offer">-->
+<!--                    <img src="/images/early-booking-waldhus-2014.png" alt="20% off published rates for bookings for March and April" />-->
+<!--                </div>-->
 				<p>
 				    <a href="/apartments/waldhus/waldhus.php" ><span class="thumb" style="background-image: url(../apartments/waldhus/picts/view-from-balcony-thumb.jpg);"></span></a>
 				</p>
@@ -115,10 +120,14 @@
                     unique scenic location between the edge of the forest and the village with spectacular 
                     views of the Matterhorn and just at the end of the Sunnegga ski piste. 
 				</p>
-                <p style="clear: both;">
-                    For more information on Haus 
-                    Waldhüs, please click the below button: 
-                </p>
+
+<!--                <h3 style="clear: both;">-->
+<!--                    Special Offer March &amp; April 2014-->
+<!--                </h3>-->
+<!--                <p style="text-align: center;">-->
+<!--                    Click on Zem Waldhüs for tremendous Early Booking Incentives-->
+<!--                </p>-->
+
 				<div class="standard_button" style="margin-top: 10px; margin-left: auto; margin-right: auto;">
 				    <a href="/apartments/waldhus/waldhus.php" >Haus Waldhüs</a>
 				</div>
@@ -162,28 +171,7 @@
                     <a href="/apartments/collinetta/collinetta.php" title="Click for more information on Haus Collinetta">Haus
                         Collinetta</a>
                 </div>
-                
-				
-                
-                <!-- Haus Bergére 
-                <span class="spacer" style="height: 50px;"></span>
-                <p>
-                    <a href="/apartments/bergere/bergere.php" title="Click for more information on Haus Berg&egrave;re"><span class="thumb" style="background-image: url(../apartments/bergere/picts/bergere-thumb.jpg);"></span></a>
-                </p>
-                <h2>Haus Bergère :: 6 Persons</h2>
-                <p>
-                    A 4-star 3 bedroom apartment (120m²) with spectacular views of the Matterhorn. Sunny and a ski bus stop just 20 metres from the house.  
-                </p>
-                <p style="clear: both;">
-                    For more information on Haus 
-                    Berg&egrave;re, please click the below button: 
-                </p>
-                <div class="standard_button" style="margin-top: 10px; margin-left: auto; margin-right: auto;">
-                    <a href="/apartments/bergere/bergere.php" title="Click for more information on Haus Berg&egrave;re">Haus
-                        Berg&egrave;re</a>
-                </div>
-                -->
-                
+
 
                 
                 

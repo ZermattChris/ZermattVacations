@@ -102,13 +102,13 @@ und andere n&uuml;tzliche Sachen </h1>
       <td>Ski und Snowboard Schule</td>
 
     </tr>
-	
-	
-	<!-- AER --> <tr>
 
-      <td><span class="plain_links"><a href="http://www.aerzone.ch/home_579.html"><img src="/links/picts/aer_logo.jpg" /></a></span></td>
 
-      <td>Aer Snowboard und Ski Schule</td>
+    <!-- Ztyle.ch --> <tr>
+
+        <td><span class="plain_links"><a href="http://www.ztyle.ch/"><img src="/links/picts/ztyle-logo.jpg" /></a></span></td>
+
+        <td>ztyle for events</td>
 
     </tr>
 
